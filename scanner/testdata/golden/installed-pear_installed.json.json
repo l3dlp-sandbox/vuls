@@ -1,7 +1,7 @@
 [
   {
     "type": "composer-vendor",
-    "lockfilePath": "installed.json",
+    "lockfilePath": "installed-pear/installed.json",
     "libs": [
       {
         "name": "pear/log",
